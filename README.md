@@ -11,7 +11,7 @@ The codes for network training and visualization will be released shortly. Pleas
 @article{li2026encf,
 title={Ensemble Controlled-Flow Filtering for Implicit Data Assimilation},
 author={Li, Zhuoyuan and Zhao, Yue and Li, Ming},
-journal={arXiv preprint arXiv:2606.28264},
+journal={arXiv preprint arXiv:2607.12975},
 year={2026}
 }
 ```
